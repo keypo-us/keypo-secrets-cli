@@ -35,6 +35,8 @@ You can then use the `keypo` command directly from your terminal.
 
 ### Setup
 
+You can upload/manage secrets [here](https://dotenv.keypo.io/). Or if you want to host the secrets manager yourself, you can fork the repo [here](https://github.com/keypo-us/secrets-manager).
+
 Initialize and configure your Keypo CLI environment:
 
 ```bash
